@@ -1,0 +1,1404 @@
+[
+{
+"uuid": "f7caefdb-cb5a-404d-9983-1d80ffe72c1d",
+"type": "NGMP_QuickScan",
+"queue": "ATP_NGMalwareProtection_NextGenerationMalwareProtectionPolicy",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "7f0aa66b-2276-4460-925d-0332cf56a888",
+"type": "policy.security.antimalware_protection",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "75E6700E-A0D2-43EB-9526-E4F148A2B71A",
+"type": "machine",
+"name": "GJ-PC34"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440443794296291328,
+"idString": "1440443794296291328",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T15:12:42.3352241Z",
+"startedAt": "2024-03-27T15:12:42.3462247Z",
+"updatedAt": "2024-03-27T15:14:33.929556717Z",
+"completedAt": "2024-03-27T15:14:15.7695683Z",
+"cancelRequested": false,
+"executor": {
+"id": "70234afb-9ecd-48ed-8891-1ac45234a044",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"Infected": 0,
+"Clean": 0,
+"Unknown": 0,
+"Failed": 0,
+"TotalScanned": 802,
+"NGMPVersion": "1.0.3879.2217",
+"ODSScanType": "QUICK",
+"ActionOnDetection": "Quarantine"
+}
+}
+},
+{
+"uuid": "3b4606b7-30b7-4538-857a-7076a66ce945",
+"type": "NGMP_QuickScan",
+"queue": "ATP_NGMalwareProtection_NextGenerationMalwareProtectionPolicy",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "7f0aa66b-2276-4460-925d-0332cf56a888",
+"type": "policy.security.antimalware_protection",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440443646571778048,
+"idString": "1440443646571778048",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T15:12:12.8570272Z",
+"startedAt": "2024-03-27T15:12:12.876135Z",
+"updatedAt": "2024-03-27T15:14:40.47651237Z",
+"completedAt": "2024-03-27T15:14:39.7133061Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"Infected": 0,
+"Clean": 0,
+"Unknown": 0,
+"Failed": 0,
+"TotalScanned": 384,
+"NGMPVersion": "1.0.3879.2217",
+"ODSScanType": "QUICK",
+"ActionOnDetection": "Quarantine"
+}
+}
+},
+{
+"uuid": "9ff858f9-71ff-49b9-9a38-875516b60649",
+"type": "NGMP_QuickScan",
+"queue": "ATP_NGMalwareProtection_NextGenerationMalwareProtectionPolicy",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "7f0aa66b-2276-4460-925d-0332cf56a888",
+"type": "policy.security.antimalware_protection",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "65C5F84A-F6C4-43B1-AFC5-2310D70DF582",
+"type": "machine",
+"name": "GJ-PC31"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440443753473880064,
+"idString": "1440443753473880064",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T15:12:38.4823736Z",
+"startedAt": "2024-03-27T15:12:38.512955Z",
+"updatedAt": "2024-03-27T15:15:15.417147818Z",
+"completedAt": "2024-03-27T15:15:05.723129Z",
+"cancelRequested": false,
+"executor": {
+"id": "a67f382d-d189-42f1-acfb-4d24c69bc415",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"Infected": 0,
+"Clean": 0,
+"Unknown": 0,
+"Failed": 0,
+"TotalScanned": 1811,
+"NGMPVersion": "1.0.3879.2217",
+"ODSScanType": "QUICK",
+"ActionOnDetection": "Quarantine"
+}
+}
+},
+{
+"uuid": "34e63941-a3f4-4702-8f73-b6d12734c975",
+"type": "A59E8BF2-39C3-42C4-B667-CB672381A214",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"startedByUser": "TESTE02\\AMS User",
+"context": {
+"IsProcessRoot": true,
+"Persistent": {
+"ID": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"Name": "TESTE02",
+"OwnerID": "3914707"
+},
+"Specific": "Business",
+"UserName": "TESTE02\\AMS User",
+"isLegacy": true,
+"title": "Adding agent 'TESTE02' to the management server"
+},
+"id": 1440162346736803840,
+"idString": "1440162346736803840",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:40:08.673307663Z",
+"startedAt": "2024-03-26T19:40:08.673307663Z",
+"updatedAt": "2024-03-26T19:40:08.682332328Z",
+"completedAt": "2024-03-26T19:40:08.673307663Z",
+"cancelRequested": false,
+"result": {
+"code": "ok",
+"payload": "MachineManagement::AddAgentResponse"
+}
+},
+{
+"uuid": "f939ddf8-0fb6-4a0e-a73e-b27c3674cf03",
+"type": "65CF6E99-11D0-4949-914F-2D8233237DC6",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914704",
+"uuid": "a2f96128-ebce-4f87-8647-ed14b34dcbb0",
+"name": "GRUPO JOIN",
+"locator": "/1/3914704/"
+},
+"cancellable": true,
+"startedByUser": "christopher.santos@avstecnologia.cloud",
+"policy": {
+"id": "5ac20251-7dd8-4280-97dd-9ae4f359d3ab",
+"type": "policy.protection.total",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "32b314a8-b74d-4835-ae73-18a987a687f6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"IsProcessRoot": true,
+"Persistent": {
+"PlanID": "5ac20251-7dd8-4280-97dd-9ae4f359d3ab",
+"PlanName": "Antiv\u00edrus"
+},
+"PlanName": "Antiv\u00edrus",
+"Specific": "Business",
+"isLegacy": true,
+"title": "Applying plan 'Antiv\u00edrus' with ID '5ac20251-7dd8-4280-97dd-9ae4f359d3ab' to resource 'TESTE02.avstecnologia.local' with ID '32b314a8-b74d-4835-ae73-18a987a687f6'"
+},
+"id": 1440162548436504576,
+"idString": "1440162548436504576",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:40:59.09630898Z",
+"startedAt": "2024-03-26T19:40:59.09630898Z",
+"updatedAt": "2024-03-26T19:40:59.105538606Z",
+"completedAt": "2024-03-26T19:40:59.09630898Z",
+"cancelRequested": false,
+"result": {
+"code": "ok",
+"payload": ""
+}
+},
+{
+"uuid": "486ccc41-76c3-401e-bd57-00ad49409241",
+"type": "A59E8BF2-39C3-42C4-B667-CB672381A214",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"startedByUser": "DESKTOP-O5338Q4\\AMS User",
+"context": {
+"IsProcessRoot": true,
+"Persistent": {
+"ID": "ada7fc30-8d40-4c98-8e40-fb4c8ab97b04",
+"Name": "DESKTOP-O5338Q4",
+"OwnerID": "3914707"
+},
+"Specific": "Business",
+"UserName": "DESKTOP-O5338Q4\\AMS User",
+"isLegacy": true,
+"title": "Adding agent 'DESKTOP-O5338Q4' to the management server"
+},
+"id": 1440162929024581632,
+"idString": "1440162929024581632",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:42:34.246511719Z",
+"startedAt": "2024-03-26T19:42:34.246511719Z",
+"updatedAt": "2024-03-26T19:42:34.253779147Z",
+"completedAt": "2024-03-26T19:42:34.246511719Z",
+"cancelRequested": false,
+"result": {
+"code": "ok",
+"payload": "MachineManagement::AddAgentResponse"
+}
+},
+{
+"uuid": "ec6bfb39-3976-458c-851c-5f57542a6fef",
+"type": "AddFeatures",
+"queue": "x#UpdateFeatureSet",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"resource": {
+"id": "C69BB01C-8151-4F95-87B0-094A4E0024E8",
+"type": "machine",
+"name": "DESKTOP-O5338Q4.ccrd.local"
+},
+"context": {
+"argument": {
+"add_components": [
+"agentForAmp",
+"agentForDlp"
+],
+"remove_components": [],
+"AMSPort": 0
+}
+},
+"id": 1440163229404606464,
+"idString": "1440163229404606464",
+"state": "started",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:43:49.349786028Z",
+"startedAt": "2024-03-26T19:43:49.980629281Z",
+"updatedAt": "2024-03-26T19:43:49.980629281Z",
+"cancelRequested": false,
+"executor": {
+"id": "ada7fc30-8d40-4c98-8e40-fb4c8ab97b04",
+"clusterId": ""
+}
+},
+{
+"uuid": "5a9ca550-e99d-4b00-9aac-7d0c115d6604",
+"type": "AddFeatures",
+"queue": "x#UpdateFeatureSet",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"argument": {
+"add_components": [
+"agentForAmp",
+"agentForDlp"
+],
+"remove_components": [],
+"AMSPort": 0
+}
+},
+"id": 1440162637960855552,
+"idString": "1440162637960855552",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:41:21.48901549Z",
+"startedAt": "2024-03-26T19:41:21.867779949Z",
+"updatedAt": "2024-03-26T19:47:38.445291593Z",
+"completedAt": "2024-03-26T19:47:38.445291593Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"add_components": [
+"agentForAmp",
+"agentForDlp"
+],
+"remove_components": [],
+"AMSPort": 0,
+"resourceId": "32B314A8-B74D-4835-AE73-18A987A687F6"
+}
+}
+},
+{
+"uuid": "debd2d4d-86aa-45a9-b969-cdb07a04f9a0",
+"type": "6AB13224-6D33-45CC-878C-2095867C524C",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"startedByUser": "carlos.duarte@avstecnologia.cloud",
+"context": {
+"IsProcessRoot": true,
+"Persistent": {
+"ID": "ada7fc30-8d40-4c98-8e40-fb4c8ab97b04",
+"Name": "DESKTOP-O5338Q4.ccrd.local",
+"OwnerID": "3914707"
+},
+"Specific": "Business",
+"UserName": "DESKTOP-O5338Q4.ccrd.local\\AMS User",
+"isLegacy": true,
+"title": "Removing agent 'DESKTOP-O5338Q4.ccrd.local' from the management server"
+},
+"id": 1440164540332445696,
+"idString": "1440164540332445696",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:49:17.077452884Z",
+"startedAt": "2024-03-26T19:49:17.077452884Z",
+"updatedAt": "2024-03-26T19:49:17.080777564Z",
+"completedAt": "2024-03-26T19:49:17.077452884Z",
+"cancelRequested": false,
+"result": {
+"code": "ok",
+"payload": "MachineManagement::RemoveAgentResponse"
+}
+},
+{
+"uuid": "03a95784-afd8-409d-96d8-a8b9463ada3b",
+"type": "quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"startedByUser": "Real-time protection",
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440164797741260800,
+"idString": "1440164797741260800",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:50:21.3153505Z",
+"startedAt": "2024-03-26T19:50:21.5859379Z",
+"updatedAt": "2024-03-26T19:50:31.798524803Z",
+"completedAt": "2024-03-26T19:50:24.406058Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileHashMD5": "44D88612FEA8A8F36DE82E1278ABB02F",
+"fileHashSHA1": "3395856CE81F2B7382DEE72602F798B642F14140",
+"fileHashSHA256": "275A021BBFB6489E54D471899F7DB9D1663FC695EC2FE2A2C4538AABF651FD0F",
+"fileName": "eicar.com",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\eicar_com\\eicar.com",
+"initiator": "Real-time protection",
+"threatName": "SFS:Not-a-Virus.EICAR-Test-File",
+"threatType": "malware"
+}
+}
+},
+{
+"uuid": "8c1e11a5-d84e-4c59-a997-3d4b2dadd44a",
+"type": "quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"startedByUser": "Real-time protection",
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440164960729411584,
+"idString": "1440164960729411584",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:51:02.0689746Z",
+"startedAt": "2024-03-26T19:51:06.7249536Z",
+"updatedAt": "2024-03-26T19:51:12.445116822Z",
+"completedAt": "2024-03-26T19:51:06.9247852Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileHashMD5": "6CE6F415D8475545BE5BA114F208B0FF",
+"fileHashSHA1": "D27265074C9EAC2E2122ED69294DBC4D7CCE9141",
+"fileHashSHA256": "2546DCFFC5AD854D4DDC64FBF056871CD5A00F2471CB7A5BFD4AC23B6E9EEDAD",
+"fileName": "eicar_com.zip",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\eicar_com.zip",
+"initiator": "Real-time protection",
+"threatName": "SFS:Not-a-Virus.EICAR-Test-File",
+"threatType": "malware"
+}
+}
+},
+{
+"uuid": "efd34233-ce06-4a40-bf65-75bafe8ec391",
+"type": "quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"startedByUser": "Real-time protection",
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440165042852007936,
+"idString": "1440165042852007936",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:51:19.2500635Z",
+"startedAt": "2024-03-26T19:51:19.2988386Z",
+"updatedAt": "2024-03-26T19:51:22.712451113Z",
+"completedAt": "2024-03-26T19:51:19.6049565Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileHashMD5": "6CE6F415D8475545BE5BA114F208B0FF",
+"fileHashSHA1": "D27265074C9EAC2E2122ED69294DBC4D7CCE9141",
+"fileHashSHA256": "2546DCFFC5AD854D4DDC64FBF056871CD5A00F2471CB7A5BFD4AC23B6E9EEDAD",
+"fileName": "N\u00e3o confirmado 507994.crdownload",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\N\u00e3o confirmado 507994.crdownload",
+"initiator": "Real-time protection",
+"threatName": "SFS:Not-a-Virus.EICAR-Test-File",
+"threatType": "malware"
+}
+}
+},
+{
+"uuid": "9b126dae-11f3-4a18-bd76-ad638f943c4b",
+"type": "delete_quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440165883840446464,
+"idString": "1440165883840446464",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:54:52.6653072Z",
+"startedAt": "2024-03-26T19:54:55.8655138Z",
+"updatedAt": "2024-03-26T19:55:03.323822194Z",
+"completedAt": "2024-03-26T19:54:56.0133382Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileName": "eicar.com",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\eicar_com\\eicar.com"
+}
+}
+},
+{
+"uuid": "4c07dde5-6631-44fe-b037-9e6e001ac03b",
+"type": "delete_quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440165925325365248,
+"idString": "1440165925325365248",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:54:52.9446298Z",
+"startedAt": "2024-03-26T19:54:55.8968403Z",
+"updatedAt": "2024-03-26T19:55:03.329906278Z",
+"completedAt": "2024-03-26T19:54:56.0814335Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileName": "eicar_com.zip",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\eicar_com.zip"
+}
+}
+},
+{
+"uuid": "79b2a4a1-0622-43fe-bf2d-b87c65763d4f",
+"type": "delete_quarantine_file",
+"queue": "CPS_SmartPlan",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": false,
+"policy": {
+"id": "policyId",
+"type": "policy.security.antimalware_protection",
+"name": "Total Protection"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02"
+},
+"id": 1440165925342142464,
+"idString": "1440165925342142464",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T19:54:53.2499208Z",
+"startedAt": "2024-03-26T19:54:55.9342858Z",
+"updatedAt": "2024-03-26T19:55:03.334335259Z",
+"completedAt": "2024-03-26T19:54:56.1402411Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"fileName": "N\u00e3o confirmado 507994.crdownload",
+"filePath": "C:\\Users\\UNICOM\\Downloads\\N\u00e3o confirmado 507994.crdownload"
+}
+}
+},
+{
+"uuid": "68356ebc-b6a9-4140-99ac-73fa84f81164",
+"type": "A59E8BF2-39C3-42C4-B667-CB672381A214",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"startedByUser": "DESKTOP-O5338Q4\\AMS User",
+"context": {
+"IsProcessRoot": true,
+"Persistent": {
+"ID": "ada7fc30-8d40-4c98-8e40-fb4c8ab97b04",
+"Name": "DESKTOP-O5338Q4",
+"OwnerID": "3914707"
+},
+"Specific": "Business",
+"UserName": "DESKTOP-O5338Q4\\AMS User",
+"isLegacy": true,
+"title": "Adding agent 'DESKTOP-O5338Q4' to the management server"
+},
+"id": 1440151577303257088,
+"idString": "1440151577303257088",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T18:55:16.316510296Z",
+"startedAt": "2024-03-26T18:55:16.316510296Z",
+"updatedAt": "2024-03-26T18:55:16.323764291Z",
+"completedAt": "2024-03-26T18:55:16.316510296Z",
+"cancelRequested": false,
+"result": {
+"code": "ok",
+"payload": "MachineManagement::AddAgentResponse"
+}
+},
+{
+"uuid": "1454a5f6-0d4c-48ec-96bf-91b4bf76dfa1",
+"type": "TpScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440403863301668864,
+"idString": "1440403863301668864",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T12:26:26.939459Z",
+"startedAt": "2024-03-27T12:26:27.0431887Z",
+"updatedAt": "2024-03-27T12:26:58.43002576Z",
+"completedAt": "2024-03-27T12:26:50.4564015Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [
+{
+"Notepad++": 4
+}
+],
+"vCountTotal": 4,
+"patches": [
+"Chrome 123.0.6312.86 en x64",
+"Chrome 123.0.6312.86 en x64",
+"Microsoft Teams 1.7.00.6058 en x64",
+"Microsoft Teams 1.7.00.6058 en x64",
+"Microsoft Teams 1.7.00.6058 en x64",
+"Firefox 124.0.1 pt-BR x64",
+"Notepad++ 8.6.4 en x64",
+"TeamViewerHost 15.52.3 en x32"
+],
+"pCountTotal": 8
+}
+}
+},
+{
+"uuid": "824f02d0-b2fa-43bd-bd30-14979fb86375",
+"type": "Update_ALL",
+"queue": "ATP_Update_ALL",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440182138965319680,
+"idString": "1440182138965319680",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T21:02:35.8565189Z",
+"startedAt": "2024-03-26T21:02:35.9376344Z",
+"updatedAt": "2024-03-26T21:04:29.669470408Z",
+"completedAt": "2024-03-26T21:04:28.8822907Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok"
+}
+},
+{
+"uuid": "0c4eab9f-24eb-4c22-86e9-44f05e70e5cf",
+"type": "D332948D-A7A9-4E07-B76C-253DCF6E17FB",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"startedByUser": "christopher.santos@avstecnologia.cloud",
+"policy": {
+"id": "e52dbb75-fcff-49a9-81ef-c46fbb0b42dc",
+"type": "backup",
+"name": "GJ-PBX01_CLOUD_DIARIO"
+},
+"resource": {
+"id": "542498A2-D13B-4DC4-B6F9-33CCF0C74430",
+"type": "instance",
+"name": "GJ-PBX01"
+},
+"context": {
+"BackupPlanName": "GJ-PBX01_CLOUD_DIARIO",
+"CommandID": "D332948D-A7A9-4E07-B76C-253DCF6E17FB",
+"CurrentBackupFrame": "0C4EAB9F-24EB-4C22-86E9-44F05E70E5CF",
+"ExecutionQueue": "default_queue",
+"HasChildren": true,
+"IsProcessRoot": true,
+"MachineName": "GJ-PBX01",
+"MessageID": "",
+"ProcessID": 15678,
+"ProtectionPlanID": "F4ED8EC9-7941-078C-2BEF-40C9D4EB1E49",
+"Specific": "Business",
+"UserName": "root",
+"_runtime": {
+"bytesProcessed": 1017761792,
+"bytesSaved": 34283520,
+"processingSpeed": 27033621.0,
+"sourceStamp": 22128
+},
+"isLegacy": true,
+"parentUUID": "0c4eab9f-24eb-4c22-86e9-44f05e70e5cf",
+"runMode": "Manual",
+"title": "Backup plan 'GJ-PBX01_CLOUD_DIARIO'"
+},
+"progress": {
+"current": 100,
+"total": 100,
+"bytesProcessed": 1017761792,
+"bytesSaved": 34283520,
+"processingSpeed": 27033621
+},
+"id": 1440406723694419968,
+"idString": "1440406723694419968",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T12:38:22.060179655Z",
+"startedAt": "2024-03-27T12:38:22.060179655Z",
+"updatedAt": "2024-03-27T12:40:29.310436393Z",
+"completedAt": "2024-03-27T12:40:28.068305465Z",
+"cancelRequested": false,
+"executor": {
+"id": "11c035bc-85be-4e25-aa00-84a66fe05c95",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"BackupActivitiesNumber": 1,
+"UnresolvedItemsWarning": {}
+}
+}
+},
+{
+"uuid": "47f305e1-16e0-4cc8-8c50-caa4ad1c5fc4",
+"type": "WinScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "65C5F84A-F6C4-43B1-AFC5-2310D70DF582",
+"type": "machine",
+"name": "GJ-PC31"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440408673795063808,
+"idString": "1440408673795063808",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T12:46:29.4333631Z",
+"startedAt": "2024-03-27T12:46:29.4497593Z",
+"updatedAt": "2024-03-27T12:48:01.842115051Z",
+"completedAt": "2024-03-27T12:47:52.0399303Z",
+"cancelRequested": false,
+"executor": {
+"id": "a67f382d-d189-42f1-acfb-4d24c69bc415",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [],
+"vCountTotal": 0,
+"patches": [],
+"pCountTotal": 0
+}
+}
+},
+{
+"uuid": "5df7fc61-08cc-4839-bf64-0943b66d4922",
+"type": "TpScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "75E6700E-A0D2-43EB-9526-E4F148A2B71A",
+"type": "machine",
+"name": "GJ-PC34"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440410582908026880,
+"idString": "1440410582908026880",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T12:54:18.4232675Z",
+"startedAt": "2024-03-27T12:54:18.4372683Z",
+"updatedAt": "2024-03-27T12:54:38.33652126Z",
+"completedAt": "2024-03-27T12:54:26.4967293Z",
+"cancelRequested": false,
+"executor": {
+"id": "70234afb-9ecd-48ed-8891-1ac45234a044",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [],
+"vCountTotal": 0,
+"patches": [
+"CPUZ 2.09 en x64",
+"Chrome 123.0.6312.86 en x64",
+"K-Lite Mega Codec Pack 18.2.0 en x32",
+"Firefox 124.0.1 pt-BR x64",
+"Java Runtime Environment 8.0.3910.13 en x32",
+"TeamViewerHost 15.52.3 en x32",
+"WinRAR 5.91.0 en x64",
+"WinRAR 7.00.0 en x64"
+],
+"pCountTotal": 8
+}
+}
+},
+{
+"uuid": "58a350a0-4c9b-4a68-9f45-fdedc2264f93",
+"type": "WinScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "75E6700E-A0D2-43EB-9526-E4F148A2B71A",
+"type": "machine",
+"name": "GJ-PC34"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440409095226896384,
+"idString": "1440409095226896384",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T12:48:06.503995Z",
+"startedAt": "2024-03-27T12:48:06.5409971Z",
+"updatedAt": "2024-03-27T12:52:35.87238082Z",
+"completedAt": "2024-03-27T12:52:27.5549262Z",
+"cancelRequested": false,
+"executor": {
+"id": "70234afb-9ecd-48ed-8891-1ac45234a044",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [],
+"vCountTotal": 0,
+"patches": [
+"Intel Corporation - Graphics Adapter WDDM1.1, Graphics Adapter WDDM1.2 - Intel(R) HD Graphics",
+"Intel - System - 4/12/2017 12:00:00 AM - 14.28.47.630",
+"2020-01 Pr\u00e9via do pacote cumulativo mensal de atualiza\u00e7\u00f5es de qualidade para Windows 7 para sistemas baseados em x64 (KB4539601)"
+],
+"pCountTotal": 3
+}
+}
+},
+{
+"uuid": "fa6d1f8e-4b21-498b-9cf0-2323b321e574",
+"type": "Update_ALL",
+"queue": "ATP_Update_ALL",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"resource": {
+"id": "75E6700E-A0D2-43EB-9526-E4F148A2B71A",
+"type": "machine",
+"name": "GJ-PC34"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440454814540644352,
+"idString": "1440454814540644352",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T15:58:36.7227661Z",
+"startedAt": "2024-03-27T15:58:36.7347668Z",
+"updatedAt": "2024-03-27T15:59:37.089555765Z",
+"completedAt": "2024-03-27T15:59:28.349719Z",
+"cancelRequested": false,
+"executor": {
+"id": "70234afb-9ecd-48ed-8891-1ac45234a044",
+"clusterId": ""
+},
+"result": {
+"code": "ok"
+}
+},
+{
+"uuid": "a7ef8e1a-ac1d-4af3-8a93-8521a06938ed",
+"type": "TpScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "65C5F84A-F6C4-43B1-AFC5-2310D70DF582",
+"type": "machine",
+"name": "GJ-PC31"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440415741809672192,
+"idString": "1440415741809672192",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T13:15:56.4854167Z",
+"startedAt": "2024-03-27T13:15:56.4996167Z",
+"updatedAt": "2024-03-27T13:16:07.670003752Z",
+"completedAt": "2024-03-27T13:16:01.5616394Z",
+"cancelRequested": false,
+"executor": {
+"id": "a67f382d-d189-42f1-acfb-4d24c69bc415",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [],
+"vCountTotal": 0,
+"patches": [
+"Chrome 123.0.6312.86 en x64",
+"Chrome 123.0.6312.86 en x64",
+"K-Lite Mega Codec Pack 18.2.0 en x32",
+"TeamViewerHost 15.52.3 en x32",
+"WinRAR 5.91.0 en x64",
+"WinRAR 7.00.0 en x64"
+],
+"pCountTotal": 6
+}
+}
+},
+{
+"uuid": "bf974bfe-b50f-45fe-95cc-c488bfde8519",
+"type": "WinScan",
+"queue": "ATP_FixNow",
+"priority": "high",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "bc8ace3c-e033-4d3a-b776-e7a4e400d335",
+"type": "policy.security.vulnerability_assessment",
+"name": "Antiv\u00edrus"
+},
+"resource": {
+"id": "32B314A8-B74D-4835-AE73-18A987A687F6",
+"type": "machine",
+"name": "TESTE02.avstecnologia.local"
+},
+"context": {
+"runMode": "Scheduled"
+},
+"progress": {
+"current": 100,
+"total": 100
+},
+"id": 1440416199018168320,
+"idString": "1440416199018168320",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-27T13:17:50.9458371Z",
+"startedAt": "2024-03-27T13:17:50.9773942Z",
+"updatedAt": "2024-03-27T13:20:20.606875738Z",
+"completedAt": "2024-03-27T13:20:20.4711653Z",
+"cancelRequested": false,
+"executor": {
+"id": "f2705963-d54e-4a27-b7aa-b8403fd8b646",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"va": [],
+"vCountTotal": 0,
+"patches": [
+"2024-01 Atualiza\u00e7\u00e3o de seguran\u00e7a do Windows 10 Version 22H2 para sistemas baseados em x64 (KB5034441)",
+"2024-03 Visualiza\u00e7\u00e3o da Atualiza\u00e7\u00e3o Cumulativa para .NET Framework 3.5, 4.8 e 4.8.1 para Windows 10 Version 22H2 para x64 (KB5036580)",
+"2024-03 Visualiza\u00e7\u00e3o de Atualiza\u00e7\u00e3o Cumulativa para Windows 10 Version 22H2 parar x64-Sistemas baseados (KB5035941)"
+],
+"pCountTotal": 3
+}
+}
+},
+{
+"uuid": "f474cfca-6e39-43f8-a216-2ffd8c4e9279",
+"type": "D332948D-A7A9-4E07-B76C-253DCF6E17FB",
+"queue": "legacySync",
+"priority": "normal",
+"tenant": {
+"id": "3914707",
+"uuid": "37485023-e1f4-4208-8056-ea215ea78e15",
+"name": "GRUPO JOIN (gj@avstecnologia.com.br)",
+"locator": "/1/3914704/3914707/"
+},
+"cancellable": true,
+"policy": {
+"id": "e52dbb75-fcff-49a9-81ef-c46fbb0b42dc",
+"type": "backup",
+"name": "GJ-PBX01_CLOUD_DIARIO"
+},
+"resource": {
+"id": "542498A2-D13B-4DC4-B6F9-33CCF0C74430",
+"type": "instance",
+"name": "GJ-PBX01"
+},
+"context": {
+"BackupPlanName": "GJ-PBX01_CLOUD_DIARIO",
+"CommandID": "D332948D-A7A9-4E07-B76C-253DCF6E17FB",
+"CurrentBackupFrame": "F474CFCA-6E39-43F8-A216-2FFD8C4E9279",
+"ExecutionQueue": "default_queue",
+"HasChildren": true,
+"IsProcessRoot": true,
+"MachineName": "GJ-PBX01",
+"MessageID": "",
+"ProcessID": 15678,
+"ProtectionPlanID": "F4ED8EC9-7941-078C-2BEF-40C9D4EB1E49",
+"Specific": "Business",
+"UserName": "root",
+"_runtime": {
+"bytesProcessed": 1432809472,
+"bytesSaved": 196755456,
+"processingSpeed": 32587551.0,
+"sourceStamp": 21448
+},
+"isLegacy": true,
+"parentUUID": "f474cfca-6e39-43f8-a216-2ffd8c4e9279",
+"runMode": "Scheduled",
+"title": "Backup plan 'GJ-PBX01_CLOUD_DIARIO'"
+},
+"progress": {
+"current": 100,
+"total": 100,
+"bytesProcessed": 1432809472,
+"bytesSaved": 196755456,
+"processingSpeed": 32587551
+},
+"id": 1440210334389624832,
+"idString": "1440210334389624832",
+"state": "completed",
+"issuer": {
+"id": "",
+"clusterId": ""
+},
+"enqueuedAt": "2024-03-26T23:00:03.094191256Z",
+"startedAt": "2024-03-26T23:00:03.094191256Z",
+"updatedAt": "2024-03-26T23:02:06.779290403Z",
+"completedAt": "2024-03-26T23:02:05.076535052Z",
+"cancelRequested": false,
+"executor": {
+"id": "11c035bc-85be-4e25-aa00-84a66fe05c95",
+"clusterId": ""
+},
+"result": {
+"code": "ok",
+"payload": {
+"BackupActivitiesNumber": 1,
+"UnresolvedItemsWarning": {}
+}
+}
+}
+]
